@@ -5,6 +5,9 @@
     --bg: #F0F8FF;
     --border: #aaa;
 }
+.p-espaco{
+    line-height: 1,1;
+}
 * 
 {
     box-sizing: border-box;
