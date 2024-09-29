@@ -71,11 +71,16 @@
 }
 .top .search i
 {
+    
     transition: .5s;
     padding-right: 10px;
 }
+.bx-search:before{
+    visibility: hidden;
+}
 .top .search i:hover
 {
+    
     color: var(--secondary);
     cursor: pointer;
 }
@@ -436,4 +441,5 @@ section
     height: auto;
     text-align: center;
 }
+
 }
