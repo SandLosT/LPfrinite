@@ -1,2 +1,2 @@
-# LPfrinite
-Landing-page da startup.
+# Responsive-Landig-page
+
