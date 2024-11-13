@@ -31,12 +31,14 @@ LPfrinite/
 │   └── js/
 │       └── app.js    # Scripts JavaScript para interatividade
 └── README.md         # Documentação do projeto
+
 📄 Como Utilizar
 Clone o repositório para o seu ambiente local:
 bash
 Copiar código
 git clone https://github.com/seu-usuario/LPfrinite.git
 Abra o arquivo index.html no seu navegador.
+
 🌐 Link para a Página
 Acesse a landing page online: Frinite Landing Page
 
